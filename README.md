@@ -1,2 +1,7 @@
 # doodle
-Enkelt repo for drodling med små ting før de får eget liv
+Enkelt repo for drodling med små ting før de får eget liv!
+
+
+## Oppsett og struktur
+
+-- Kommer
